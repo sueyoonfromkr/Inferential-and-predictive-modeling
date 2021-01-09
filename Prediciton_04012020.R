@@ -1,5 +1,3 @@
-### Title:    Group project 13 data preparation
-### Author:   Vira Hayuningrum
 ### Created:  01/03/2020
 ### Modified: 31/03/2020
 
